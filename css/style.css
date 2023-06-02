@@ -1,0 +1,19 @@
+body {
+    color: black;
+    background-color: beige;
+    font-family: 'Verdana';
+}
+
+h1 {
+    font-family: 'Arial Narrow';
+    font-size: 75px;
+    color: maroon;
+}
+
+span {
+    font-weight: 600;
+}
+
+nav ul {
+    list-style-type: none;
+}
