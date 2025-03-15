@@ -1,13 +1,13 @@
 body {
     color: black;
-    background-color: beige;
-    font-family: 'Verdana';
+    background-color: rgb(228, 239, 233);
+    font-family: 'Tenor Sans';
 }
 
 h1 {
-    font-family: 'Arial Narrow';
-    font-size: 75px;
-    color: maroon;
+    font-family: 'Julius Sans One';
+    font-size: 40px;
+    color: rgb(75, 4, 75);
 }
 
 span {
@@ -16,4 +16,5 @@ span {
 
 nav ul {
     list-style-type: none;
+    padding: 0;
 }
